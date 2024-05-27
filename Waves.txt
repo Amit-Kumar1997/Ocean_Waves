@@ -1,0 +1,10 @@
+The wave data used in this study contains following features:
+
+Date/Time: Date and 30 minute wave record
+Hs : The significant wave height (in metres), defined as the average of the highest one-third of wave heights in a 30 minute wave record.
+Hmax: The height (in metres) of the highest single wave in a wave record.
+Tz: The average of the zero up-crossing wave periods (in seconds) in a wave record.
+Tp: This is the wave period (in seconds) of those waves that are producing the most energy in a wave record.
+Peak Direction: The direction that peak waves are coming from, shown in degrees from true north.
+SST: The sea surface temperature at the wave monitoring buoy, in degrees Celsius.
+wave_graph
